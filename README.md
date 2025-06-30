@@ -3,6 +3,8 @@
 此專案是使用 Vue.js 實現的收藏網址小工具，旨在讓使用者方便地管理和保存網址。  
 使用者可以新增、刪除特定網址或清空所有收藏，所有收藏的資料會持久化存儲在瀏覽器的 `localStorage` 中。
 
+![perviewImg](https://github.com/WYLee327/yjchou_vue_hw1/blob/main/docs/imgs/img_1.png?raw=true)
+
 ## 功能介紹
 
 - **新增網址**：使用者可以在輸入框中輸入網址和可選的標題，然後點擊「新增」按鈕將其添加到收藏清單中。
