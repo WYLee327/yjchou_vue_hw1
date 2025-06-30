@@ -104,7 +104,7 @@ const saveToLocal = () => {
     >
       <button @click="delAll" class="btn btn-error btn-sm">刪除全部</button>
     </div>
-    <table id="show-list" style="margin-top: 3px">
+    <table id="show-list" style="margin-top: 3px; width: 100%;">
       <thead>
         <tr>
           <th colspan="3">收藏清單</th>
@@ -157,10 +157,6 @@ td {
   padding-left: 10px;
 }
 
-.url-column,
-.title-column {
-  width: 500px;
-}
 
 .del-column {
   width: 100px;
